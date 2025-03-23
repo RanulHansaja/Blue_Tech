@@ -19,4 +19,4 @@ Welcome to **Path Seekers**, a professional software website designed to showcas
 ## 🎯 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/Path-Seekers.git
+   git clone https://github.com/RanulHansaja/Blue_Tech
